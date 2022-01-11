@@ -38,3 +38,6 @@ void swap(int &x, int &y){
         }
     }
 };
+
+Time Complexity - O(N) // N becoz of while loop
+Space Complexity - O(1) // 1 becoz of no extra array is used
